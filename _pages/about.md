@@ -12,7 +12,7 @@ I am **Zhan Zhu**, a second-year Master's student at School of Economics, Shangh
 
 My research interests include **Behavioral and Experimental Economics** and **Matching Theory**.
 
-<zhuzhan0103@outlook.com> · [CV](./files/CV_Zhan Zhu.pdf)
+<zhuzhan0103@outlook.com> · [CV](files/CV_Zhan_Zhu.pdf)
 
 ## Publications
 * **[Ekici's reclaim-proof allocations revisited](https://doi.org/10.1016/j.jmateco.2025.103170)**, [Qianfeng Tang](https://sites.google.com/view/qianfeng) and **Zhan Zhu**
