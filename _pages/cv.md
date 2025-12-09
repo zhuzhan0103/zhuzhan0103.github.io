@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV here: [CV](/files/CV_Zhan_Zhu.pdf)
+Download my CV here: [CV]({{ base_path }}/files/CV_Zhan_Zhu.pdf)
