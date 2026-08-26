@@ -11,7 +11,7 @@ Welcome! I am **Zhan Zhu**, currently a first-year PhD student in Economics at U
 
 My broad interests and previous academic training primarily lie in Behavioral and Experimental Economics and Matching Theory.
 
-<zhanzhu@umd.edu> · [CV](./files/CV_Zhan_Zhu.pdf)
+<zhanzhu@umd.edu> · [CV](./files/cv_web_2026.pdf)
 
 ## Publications
 * **[Ekici's reclaim-proof allocations revisited](https://doi.org/10.1016/j.jmateco.2025.103170)**, [Qianfeng Tang](https://sites.google.com/view/qianfeng) and **Zhan Zhu**
