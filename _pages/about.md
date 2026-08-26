@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Zhan Zhu**, currently a first-year PhD student in Economics at University of Maryland, College Park. Prior to joining UMD, I completed both my Bachelor's and Master's studies at Shanghai University of Finance and Economics (SUFE).
+Welcome! I am **Zhan Zhu**, currently a first-year PhD student in Economics at University of Maryland, College Park. I completed both my Bachelor's and Master's studies at Shanghai University of Finance and Economics.
 
-At present, I am exploring a variety of topics within economics. My broad interests and previous academic training primarily lie in Behavioral and Experimental Economics and Matching Theory.
+My broad interests and previous academic training primarily lie in Behavioral and Experimental Economics and Matching Theory.
 
 <zhanzhu@umd.edu> · <zhuzhan0103@outlook.com> · [CV](./files/CV_Zhan_Zhu.pdf)
 
