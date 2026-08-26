@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am **Zhan Zhu**, a second-year Master's student at School of Economics, Shanghai University of Finance and Economics (SUFE). I received my Bachelor of Economics (Mathematical Economics) degree in June 2024, also from SUFE. 
+Welcome! I am **Zhan Zhu**, currently a first-year PhD student in Economics at University of Maryland, College Park. Prior to joining UMD, I completed both my Bachelor's and Master's studies at Shanghai University of Finance and Economics (SUFE).
 
+At present, I am exploring a variety of topics within economics. My broad interests and previous academic training primarily lie in Behavioral and Experimental Economics and Matching Theory.
 
-My research interests include **Behavioral and Experimental Economics** and **Matching Theory**.
-
-<zhuzhan0103@outlook.com> · [CV](./files/CV_Zhan_Zhu.pdf)
+<zhanzhu@umd.edu> · <zhuzhan0103@outlook.com> · [CV](./files/CV_Zhan_Zhu.pdf)
 
 ## Publications
 * **[Ekici's reclaim-proof allocations revisited](https://doi.org/10.1016/j.jmateco.2025.103170)**, [Qianfeng Tang](https://sites.google.com/view/qianfeng) and **Zhan Zhu**
