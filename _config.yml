@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "kyoto2.jpg"
-  name             : "Zhan Zhu"
+  name             : ""
   #pronouns         : # example: "she/her"  
-  bio              : "Shanghai University of Finance and Economics"
+  bio              : ""
   #location         : "Shanghai"
   #employer         : "Red Brick University"
   #uri              : # URL
